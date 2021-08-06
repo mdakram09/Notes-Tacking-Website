@@ -6,6 +6,10 @@
   outline: none;
 }
 
+body {
+  background-color: #7bdaf3;
+}
+
 header {
   display: flex;
   align-items: center;
@@ -43,14 +47,14 @@ section {
 
 .note {
   background-color: #fff;
-  box-shadow: 0 22px 40px #f7b9bd;
+  box-shadow: 0 22px 40px #bad890;
   margin: 30px 20px;
   height: 400px;
   width: 400px;
 }
 
 .note .tools {
-  background-color: #000000;
+  background-color: #bad890;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;
