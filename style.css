@@ -10,12 +10,14 @@
   background-color: #7bdaf3;
 }
 
+
+
 header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /*border-bottom: 1px solid silver;*/
   padding: 0 1rem;
+  padding-top: 20px;
 }
 #authorDesc {
   text-align: center;
@@ -33,6 +35,7 @@ section {
 
 .header-title{
   color: black;
+  text-align: right;
 }
 
 .add {
@@ -49,12 +52,19 @@ section {
   transform: scale(0.98);
 }
 
+
+
+.ropill{
+  border-radius: 50px 50px 50px 50px;
+}
+
 .note {
   background-color: #fff;
   box-shadow: 0 22px 40px #a1ca68;
   margin: 30px 20px;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
+  border-radius: 50px 50px 50px 50px;
 }
 
 .note .tools {
