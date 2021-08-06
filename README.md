@@ -1,4 +1,4 @@
-![Desktop image of Note App](https://github.com/rsinghcodes/note-taking-app-using-js/blob/main/DesktopImage.PNG)
+![Desktop image of Note App](https://github.com/mdakram09/Notes-Tacking-Website/blob/main/DesktopImage.PNG)
 
 ### &#9758; Overview
 
@@ -9,5 +9,5 @@
 
 <br/>
 
-![Mobile image of Note App](https://github.com/rsinghcodes/note-taking-app-using-js/blob/main/MobileImage.PNG)
+![Mobile image of Note App](https://github.com/mdakram09/Notes-Tacking-Website/blob/main/MobileImage.PNG)
 # Notes-Tacking-Website
