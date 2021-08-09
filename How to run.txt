@@ -1,0 +1,11 @@
+Step-1 : Go to "Notes-Tacking-Website/" folder
+
+Step-2 : double click on "index.html" file(open index.html file in your browser)
+
+================================================================================
+
+The site is hosted at netlify
+
+Demo ----> https://aknotesapp.netlify.app/
+
+Thanks for visiting my Repository :-)
