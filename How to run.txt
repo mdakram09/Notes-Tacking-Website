@@ -1,13 +1,15 @@
-Step-1 : Go to "Notes-Tacking-Website/" folder
+Step-1 : Extract the folder
 
-Step-2 : double click on "index.html" file(open index.html file in your browser)
+Step-2 : Go to "Notes-Tacking-Website/" folder
+
+Step-3 : double click on "index.html" file(open index.html file in your browser)
 
 (NOTE: The notes are stored in local storage of the browser you can see it in the screenshots)
 
 ================================================================================
 
-The site is hosted at netlify
+The site is hosted on netlify
 
 Demo ----> https://aknotesapp.netlify.app/
 
-Thanks for :-)
+Thank You :-)
